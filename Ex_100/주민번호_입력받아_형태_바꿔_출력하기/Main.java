@@ -1,4 +1,4 @@
-package 주민번호_입력받아_형태_바꿔_출력하기;
+package Ex_100.주민번호_입력받아_형태_바꿔_출력하기;
 
 import java.util.Scanner;
 
